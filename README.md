@@ -13,15 +13,7 @@ Book Log, okuduğunuz kitapları takip etmenize, değerlendirmenize ve kişisel 
 
 ## 📱 Ekran Görüntüleri
 
-><img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/d91d7c79-89c8-4efe-82b5-9490fcb7bad2" /> <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/1b8bff6a-2166-4574-aac4-dac039fefcee" /> <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/bb0f1de1-f4b8-4f1b-a27a-5414469edf2c" /> <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/80fed434-ad3b-4d71-ac02-eca3b9cf8d32" /> <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/538f04c1-a5d6-4ddd-a030-4ae7d0e4ab46" /> <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/7e2436e7-34b4-42e1-8108-e0b50172d9df" /> <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/c1f73737-ec66-4840-8836-bcd1b9557b3c" /> <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/cfb6f6b1-a69d-4294-97ff-98e988c2eaf1" />
-
-
-
-
-
-
-
-
+><img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/b0fa073a-d9a1-4850-86c7-2a186df5b383" /> <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/e76bb8c5-3fa8-4e8d-8bd9-6e6305d423e6" /> <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/240a8476-4719-402a-9d47-469d89ea12ce" /> <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/cd194ba8-2740-4e2b-8267-3752ec26d664" /> <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/b335ad26-bf23-4862-b18b-d479ccfa5dd9" /> <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/16cb000e-3c1c-46d7-a9ea-b642871c4024" /> <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/2e362512-980a-43eb-9365-c5b58ac5bd57" /> <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/83dfedcf-b766-4802-a4d2-3923d4cfc3b9" />
 
 
 ## 🚀 Kurulum
